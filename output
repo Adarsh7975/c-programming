@@ -1,0 +1,6 @@
+Array: 2 5 8 12 16 23 38 45 56 67 78 
+
+Searching for 23: Found at index 5
+Searching for 2: Found at index 0
+Searching for 78: Found at index 10
+Searching for 100: Not found
